@@ -1,0 +1,19 @@
+body { padding-right: 0 !important }
+.codigo_video {
+    color: #dd4b39;
+}
+.login-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-logo img {
+    width: 60%;
+    height: auto;
+}
+.login-page, .register-page {
+    background: #EBEBEB;
+}
+.hide {
+    display: none;
+}
